@@ -159,6 +159,8 @@ It includes:
 
 ![Sales Overview](images/olist_sales_overview.png)
 
+[View Sales Overview Dashboard on Tableau Public](https://public.tableau.com/app/profile/ludmila.kuznetsova/viz/Olist_Dashboard_17919945370470/SalesAnalysis))
+
 ### Dashboard 2 — Customer & Delivery Analysis
 
 The second dashboard focuses on customer behavior, geographic distribution, delivery performance, and customer satisfaction.
@@ -172,7 +174,7 @@ It includes:
 
 ![Customer & Delivery Analysis](images/olist_customer_and_delivery_analysis.png)
 
-[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ludmila.kuznetsova/viz/Olist_Dashboard_17912843175040/SalesAnalysis)
+[View Customer & Delivery Analysis Dashboard on Tableau Public](https://public.tableau.com/app/profile/ludmila.kuznetsova/viz/Olist_Dashboard_17919945370470/CustomerDelivery)
 
 ---
 
